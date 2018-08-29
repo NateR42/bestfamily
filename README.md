@@ -13,7 +13,7 @@ This application is a tool for family with features like :
 
 ## Technologies
 
-It is developed as a self-learning Kotlin training with a full stack app.
+It is developed as a self-learning Gradle+Kotlin training with a full stack app.
 - backend kotlin with JVM
 - frontend kotlin (to be defined)
 - shared module with core objects
